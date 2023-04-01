@@ -592,6 +592,10 @@ body {
     .setting-509 {
         left: 45%;
     }
+    
+    #carouselExampleIndicators {
+        overflow: hidden;
+    }
 
 }
 
@@ -636,5 +640,9 @@ body {
 
     .setting-509 {
         left: 35%;
+    }
+    
+    #carouselExampleIndicators {
+        overflow: visible;
     }
 }
