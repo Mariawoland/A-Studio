@@ -5,6 +5,7 @@
 
 body {
     font-family: "Averta Demo PE Cutted Demo";
+    overflow-x: hidden;
 }
 
 .text-001 {
