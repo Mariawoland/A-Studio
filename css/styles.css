@@ -525,6 +525,11 @@ body {
 }
 
 @media (max-width: 1100px) {
+    
+    body {
+        overflow-x: hidden !important;
+        width: 100vw;
+    }
 
     .text-002 {
         margin-left: 10px;
